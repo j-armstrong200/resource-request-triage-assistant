@@ -73,6 +73,3 @@ No backend server or database — the tool runs entirely in the browser.
 
 Jeanine Armstrong — built as part of a Claude Corps Fellow application.
 
-## Author
-
-Jeanine Armstrong — built as part of a Claude Corps Fellow application.
