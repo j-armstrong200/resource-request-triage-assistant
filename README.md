@@ -5,6 +5,7 @@ incoming requests for help — built as a project for my Claude Corps Fellow
 application.
 
 **Try it live:** https://claude.ai/public/artifacts/b86d6398-a12f-4e85-b074-1529e0dddcf2
+*Note: this tool calls the Claude API live, so Anthropic requires viewers to be signed into a free Claude.ai account to use the "Triage this request" button.*
 
 ## The Problem
 
